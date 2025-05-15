@@ -17,7 +17,7 @@ On terminal:
 i. cd backend
 ii. node
 iii. const func = require('./startup')
-iv. func("Ibrahim","ibrahim@gmail.com","admin","Admin","Narowal Pakistan","03123456789","password")
+iv. func("Super_Admin_Name","admin@gmail.com","admin","Admin","Lahore Pakistan","phone#","Password")
 
 On terminal:
 i. cd client
